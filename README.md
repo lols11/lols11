@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I just like doing things :)
+
 <!--
 **lols11/lols11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![469384860_988663739957964_6954253476912059448_n](https://github.com/user-attachments/assets/515121c7-9da9-4eae-acc0-b5c3b6211375)
